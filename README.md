@@ -4,7 +4,10 @@
 ## Output of Project
 ![alt text](https://i.ibb.co/DCvqD4g/output.png)
 
-## Run This Project
+## Project Demo URL
+* Demo URL: https://islamuddin.github.io/Panaverse-JavaScript-Exercises
+
+## Run This Project Locally
 1. Clone project
 * > git clone https://github.com/islamuddin/Panaverse-JavaScript-Exercises.git
 * Note: you can download this project as zip by clicking on green `code` button and then clicking on `Download ZIP` button. 
