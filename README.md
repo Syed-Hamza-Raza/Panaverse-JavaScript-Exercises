@@ -6,7 +6,7 @@
 
 ## Run This Project
 1. Clone project
-* > git clone : https://github.com/islamuddin/Panaverse-JavaScript-Exercises-Solved.git
+* > git clone https://github.com/islamuddin/Panaverse-JavaScript-Exercises.git
 * Note: you can download this project as zip by clicking on green `code` button and then clicking on `Download ZIP` button. 
 2. Open project in VS Code
 3. Open index.html with Live Server extension of VS Code:
