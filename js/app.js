@@ -47,7 +47,7 @@ function executeJs(inputSelector, output=true) {
     // Execute Js Code
     try{
       eval(js_code);
-      js_code=js_code.replaceAll("\",","\"+"); // condition handled if console.log used with comma
+      // js_code=js_code.replaceAll("\",","\"+"); // condition handled if console.log used with comma
       if(output) eval(js_code.replaceAll("console.log(",`printConsole("${jsSource.outputSelector}",`));  
     }catch(e){
       console.log(e)
@@ -61,13 +61,13 @@ let jsSources=[
     { file: 'js/assignment2.js', inputSelector:'input-2', outputSelector:'output-2', editor:null},
 ];
 
-// js sources's, reference of array of objects, dynamic entry following sequence.
+// js sources's, reference of array of objects, dynamic entry as all js files following same sequence.
 for(fileSequence=3; fileSequence<=45; fileSequence++){
     jsSources.push({
         file: 'js/assignment'+fileSequence+'.js', inputSelector:'input-'+fileSequence, outputSelector:'output-'+fileSequence, editor:null
     })
 }
-
+// show sources and their output.
 jsSources.forEach(assignment => {     
     getJsSourceCode(assignment)
 });
