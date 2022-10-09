@@ -1,6 +1,6 @@
-#  Panaverse-WMD-JavaScript-Exercises
+#  Panaverse-WMD-JavaScript-Exercises (Unsolved)
 
-- Panaverse Web3.0 & Metaverse Developer (WMD) - JavaScript Exercises
+- Panaverse Web3.0 & Metaverse Developer (WMD) - JavaScript Exercises (Unsolved)
 
 ## About This Project
 - This repo project is visualizing Panaverse Web3.0 & Metaverse Developer (WMD) - JavaScript Exercises into integrated development environment
