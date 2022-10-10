@@ -1,7 +1,7 @@
 #  Panaverse-WMD-JavaScript-Exercises (Unsolved)
 
 - Panaverse Web3.0 & Metaverse Developer (WMD) - JavaScript Exercises (Unsolved)
-[![](https://i.imgur.com/HgTZ3O7.jpg)](https://youtu.be/NCcpNkFeTQQ)👉[Project explained here](https://youtu.be/NCcpNkFeTQQ)
+- [![](https://i.imgur.com/HgTZ3O7.jpg)](https://youtu.be/NCcpNkFeTQQ)👉[Project explained here](https://youtu.be/NCcpNkFeTQQ)
 
 ## Output of Project
 ![alt text](https://i.ibb.co/DCvqD4g/output.png)
